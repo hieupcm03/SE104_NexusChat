@@ -20,6 +20,22 @@
 - [Tăng Chấn Hồng](https://github.com/24520579)
 - [Nguyễn Hoàn Hải](https://github.com/Haibrosh)
 
+## 👨‍💻 My Contributions
+
+**Role:** Frontend Developer  
+
+**Key Technologies:** ReactJS, TailwindCSS, shadcn/ui, Zod (Schema Validation)
+
+**Key Responsibilities & Implemented Features:**
+
+* **Core UI/UX Development:**
+  * Designed and developed the main Chat application interface utilizing the **shadcn/ui** component system, delivering a modern, consistent, and highly maintainable user experience.
+  * Built the Authentication interface (Auth UI) and integrated the **Zod** library for rigorous schema definition and form validation, ensuring a secure and seamless registration and login flow.
+* **Advanced Chat Features & Interactions:**
+  * Developed the Search action bar, allowing users to efficiently navigate and query information within the application.
+  * Integrated a fully functional Emoji picker to enhance user engagement and the real-time messaging experience.
+  * Built the Image section module to support seamless rendering and management of multimedia content directly within the chat stream.
+
 ## 🛠️ Tech Stack
 
 **Frontend:**
